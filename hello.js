@@ -10,8 +10,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-rl.question('Enter File path to open ', (answer) => {
-    
+rl.question('Enter File path to open ', (answer) => {  
 fs.open(answer, 'r', (err, fd) => {
   if (err) throw err;
   fs.close(fd, (err) => {
