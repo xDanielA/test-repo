@@ -11,7 +11,7 @@ const rl = readline.createInterface({
 });
 
 rl.question('Enter File path to open ', (answer) => {  
-fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'rr', (err, fd) => {
   if (err) throw err;
   fs.close(fd, (err) => {
     if (err) throw err;
