@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-console.log('helloooooo');
+
 console.log('world');
 
 
