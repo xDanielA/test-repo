@@ -1,28 +1,27 @@
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
-console.log('helloooooo');
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+fs.open(answer, 'r', (err, fd) => {
+
