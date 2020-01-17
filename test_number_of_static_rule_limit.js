@@ -1,26 +1,25 @@
-rl.question('Enter File path to open ', (answer) => {  
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-fs.open(answer, 'rr', (err, fd) => {
-
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
+console.log('count');
