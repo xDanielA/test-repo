@@ -13,5 +13,14 @@ func main() {
 		return
 	}
 	fmt.Printf("random number: %d\n", n.Int64())
+	
+	 v := "temp"
+        for {
+                v := "temp2"
+                fmt.Println(v)
+                break
+        }
+        fmt.Println(v)
+
 
 }
