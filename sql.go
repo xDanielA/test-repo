@@ -23,3 +23,18 @@ func Status(username string) string {
 
 	return "offline"
 }
+
+
+func (p TagPauseParams) Valid() bool {
+	empty := 0
+	if p.Hashes == "" {
+		empty += 1
+	}
+	if p.AdTagIDs == "" {
+		empty += 1
+	}
+	if p.Name == "" {
+		empty += 1
+	}
+	return empty == 2
+}
