@@ -1,0 +1,16 @@
+{
+    "rules": {
+      "import": "off",
+      "parsing_error": "off",
+      "no-unused-vars": [
+        "error",
+        {
+          "args": "none"
+        }
+      ]
+    },
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module"
+    }
+}
