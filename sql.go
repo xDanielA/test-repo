@@ -28,7 +28,9 @@ func Status(username string) string {
 const getAssetType = () => {
 
     if (selType[0].type) {
-      if (
+      
+	    
+	    if (
         selType[0].type === AssetTypeEnum.BANNER ||
         selType[0].type === AssetTypeEnum.HTML
       ) {
