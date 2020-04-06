@@ -25,6 +25,7 @@ func Status(username string) string {
 }
 
 
+
 const getAssetType = () => {
 
     if (selType[0].type) {
