@@ -28,11 +28,11 @@ func Status(username string) string {
 
 const getAssetType = () => {
 
-    if (selType[0].type) {
+    if (selType[0].type) { 
       
 	    
 	    if (
-        selType[0].type === AssetTypeEnum.BANNER ||
+        selType[0].type === AssetTypeEnum.BANNER || 
         selType[0].type === AssetTypeEnum.HTML
       ) {
         return [AssetTypeEnum.BANNER, AssetTypeEnum.HTML];
