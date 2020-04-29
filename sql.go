@@ -5,6 +5,7 @@ import (
 	"log"
 )
 	
+var x;	
 
 func Status(username string) string {
 	db, err := sql.Open("mysql", "user:password@tcp(127.0.0.1:3306)/hello")
@@ -58,13 +59,7 @@ const getAssetType = () => {
   };
  
 
-
-
-
-	
-	
-
-
-
-
-	
+var x;	var x;	var x;	
+	var x;	
+	var x;	
+	var x;	
