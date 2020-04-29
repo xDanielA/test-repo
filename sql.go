@@ -56,6 +56,37 @@ func Status(username string) string {
 	return "offline"
 }
 
+	
+const getAssetType = () => {
+
+    if (selType[0].type) { 
+      
+	    
+	    if (
+        selType[0].type === AssetTypeEnum.BANNER || 
+        selType[0].type === AssetTypeEnum.HTML
+      ) {
+        return [AssetTypeEnum.BANNER, AssetTypeEnum.HTML];
+      } else if (selType[0].type === AssetTypeEnum.VIDEO) {
+        return [AssetTypeEnum.VIDEO];
+      const type = selType[0].type;
+      let array;
+      switch (type) {
+        case AssetTypeEnum.BANNER:
+        case AssetTypeEnum.HTML:
+          array = [AssetTypeEnum.BANNER, AssetTypeEnum.HTML];
+        case AssetTypeEnum.VIDEO:
+          array = [AssetTypeEnum.VIDEO];
+        case AssetTypeEnum.DISPLAY:
+          array = [AssetTypeEnum.THIRD_PARTY_DISPLAY];
+        default:
+          array = [""];
+      }
+      return [""];
+      return array;
+    }
+    return [""];
+  };
  
 
 
